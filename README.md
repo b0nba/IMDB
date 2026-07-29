@@ -1,0 +1,1 @@
+This is my first public attempt at NLP and text classification. It is basic and simple and lacks many steps that could be incorporated. I plan on coming back for this project in the future and release updated version.
